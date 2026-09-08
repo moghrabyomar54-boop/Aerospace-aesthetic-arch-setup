@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "omar1337sherief@example.com",
+                "Name": "Omar"
+            }
+        ],
+        "Category": "Global Themes",
+        "Description": "Hunter x Hunter Animated Splash Screen",
+        "Id": "com.hxh.splash",
+        "License": "GPL",
+        "Name": "HxH Splash",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0"
+    }
+}
